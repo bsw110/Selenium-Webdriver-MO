@@ -15,6 +15,7 @@ public class alertpopuphandle {
 		driver.findElement(By.name("proceed")).click();
 		
 		Thread.sleep(5000);
+		
 		Alert alert=driver.switchTo().alert();
 		
 		System.out.println(alert.getText());

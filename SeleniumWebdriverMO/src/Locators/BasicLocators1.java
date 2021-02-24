@@ -24,7 +24,7 @@ public class BasicLocators1 {
 		//2-name
 		driver.findElement(By.name("txtPassword")).sendKeys("admin123");
 		
-		//3-className
+		//3-className(not use full)
 		driver.findElement(By.className("button")).click();
 		
 		//4-xpath

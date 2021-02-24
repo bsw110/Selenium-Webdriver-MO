@@ -23,14 +23,18 @@ public class frameHandle2 {
 		driver.switchTo().frame("selenium");
 		
 		driver.findElement(By.xpath("//input[@type='First Name']")).sendKeys("admin");
+		
 		driver.switchTo().defaultContent();
+		
 		driver.findElement(By.xpath("/html/body/a")).click();
+		
 		driver.navigate().back();
 		//driver.switchTo().defaultContent();
 		
 		driver.switchTo().frame("seleniumhq");// it accepts only id name
 		
 		driver.findElement(By.xpath("//a[@id='dropdownButton']")).click();
+		
 		driver.switchTo().defaultContent();
 		// conunt total frames in pages
 		

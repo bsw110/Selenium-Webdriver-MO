@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15" started-at="2021-01-15T16:53:36Z" finished-at="2021-01-15T16:53:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15" started-at="2021-01-15T16:53:36Z" finished-at="2021-01-15T16:53:36Z">
+      <class name="testNg.TestNgFrameWorkBasics">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testNg.TestNgFrameWorkBasics@6e3c1e69]" name="setup" is-config="true" duration-ms="16" started-at="2021-01-15T22:23:36Z" finished-at="2021-01-15T22:23:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:testNg.TestNgFrameWorkBasics@6e3c1e69]" name="launchbrowser" is-config="true" duration-ms="0" started-at="2021-01-15T22:23:36Z" finished-at="2021-01-15T22:23:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method status="PASS" signature="login()[pri:0, instance:testNg.TestNgFrameWorkBasics@6e3c1e69]" name="login" is-config="true" duration-ms="0" started-at="2021-01-15T22:23:36Z" finished-at="2021-01-15T22:23:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="enterUrl()[pri:0, instance:testNg.TestNgFrameWorkBasics@6e3c1e69]" name="enterUrl" is-config="true" duration-ms="0" started-at="2021-01-15T22:23:36Z" finished-at="2021-01-15T22:23:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterUrl -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:testNg.TestNgFrameWorkBasics@6e3c1e69]" name="logout" is-config="true" duration-ms="0" started-at="2021-01-15T22:23:36Z" finished-at="2021-01-15T22:23:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:testNg.TestNgFrameWorkBasics@6e3c1e69]" name="closebrowser" is-config="true" duration-ms="0" started-at="2021-01-15T22:23:36Z" finished-at="2021-01-15T22:23:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method status="PASS" signature="searchtest()[pri:0, instance:testNg.TestNgFrameWorkBasics@6e3c1e69]" name="searchtest" duration-ms="0" started-at="2021-01-15T22:23:36Z" finished-at="2021-01-15T22:23:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchtest -->
+        <test-method status="PASS" signature="deleteallthecookies()[pri:0, instance:testNg.TestNgFrameWorkBasics@6e3c1e69]" name="deleteallthecookies" is-config="true" duration-ms="0" started-at="2021-01-15T22:23:36Z" finished-at="2021-01-15T22:23:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteallthecookies -->
+        <test-method status="PASS" signature="googletitletest()[pri:0, instance:testNg.TestNgFrameWorkBasics@6e3c1e69]" name="googletitletest" duration-ms="0" started-at="2021-01-15T22:23:36Z" finished-at="2021-01-15T22:23:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googletitletest -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:testNg.TestNgFrameWorkBasics@6e3c1e69]" name="logout" is-config="true" duration-ms="0" started-at="2021-01-15T22:23:36Z" finished-at="2021-01-15T22:23:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="enterUrl()[pri:0, instance:testNg.TestNgFrameWorkBasics@6e3c1e69]" name="enterUrl" is-config="true" duration-ms="0" started-at="2021-01-15T22:23:36Z" finished-at="2021-01-15T22:23:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterUrl -->
+      </class> <!-- testNg.TestNgFrameWorkBasics -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

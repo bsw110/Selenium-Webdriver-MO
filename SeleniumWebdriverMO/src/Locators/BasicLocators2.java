@@ -15,7 +15,7 @@ public class BasicLocators2 {
 	System.setProperty("webdriver.chrome.driver","C:\\Users\\User\\Downloads\\SOFTWARE\\new chrome exe\\chromedriver.exe");
 	WebDriver driver =new ChromeDriver();
 	
-	//6-LinkText
+	//6-LinkText(use only for links)
 	driver.get("https://opensource-demo.orangehrmlive.com/");
 	//driver.findElement(By.linkText("Forgot your password?")).click();
 	
